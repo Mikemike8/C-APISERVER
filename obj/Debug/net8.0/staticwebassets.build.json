@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rrKTws//emCylE3rZ5QT1qYC5bNmUsD3O7l7MryexzA=",
+  "Source": "C-APISERVER",
+  "BasePath": "_content/C-APISERVER",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
