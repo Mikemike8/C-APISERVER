@@ -1,10 +1,6 @@
 # C-APISERVER
 
 
-Sure! Here's the updated version of the README with the necessary installation steps for both the **frontend** and **backend**:
-
----
-
 ## **Setting Up React Frontend with C# ASP.NET Core Backend**
 
 This guide will help you set up a full-stack application with **React** as the frontend and **C# ASP.NET Core** as the backend.
